@@ -3,8 +3,8 @@
 > Status do projeto: Finalizado
 
 portfolio feito no curso de html e css da alura
-
-![Tela inicial do site](![image](https://github.com/viniciustmota/portfolio-curso-html-alura/assets/106537834/a12a5f4b-378f-44fd-a799-6637e8e2e319)
+(![Tela inicial do site](https://github.com/viniciustmota/portfolio-curso-html-alura/assets/106537834/0b8864b4-9c09-4b17-84e1-4d599de5e513)
+)
 )
 
 ## 🚀 Começando
